@@ -1,6 +1,6 @@
 /*************************************************
  *  Wowchemy
- *  https://github.com/wowchemy/wowchemy-hugo-modules
+ *  https://github.com/glangmead/wowchemy-hugo-modules
  *
  *  Algolia based search algorithm.
  **************************************************/

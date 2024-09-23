@@ -12,9 +12,9 @@ Built upon the open source [Netlify CMS](https://www.netlifycms.org/) and [Netli
    [module]
      # Any existing modules here...
      [[module.imports]]
-       path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms"
+       path = "github.com/glangmead/wowchemy-hugo-modules/wowchemy-cms"
      [[module.imports]]
-       path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy"
+       path = "github.com/glangmead/wowchemy-hugo-modules/wowchemy"
    ```
 
 2. Create a `content/admin/index.md` file containing:
